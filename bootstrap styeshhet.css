@@ -1,0 +1,849 @@
+body
+{
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+}
+/* head part open */
+.head
+{
+    background-color: yellowgreen;
+}
+.nav-link
+{
+    color: black !important;
+}
+/* head part colsed */
+/* banner part open */
+.banner
+{
+    width: 100%;
+    float: left;
+    height: 400px;
+}
+.slider
+{
+    height: 400px;
+}
+/* banner part colsed */
+/* welcome part open */
+.left
+{
+    min-height: 257px;
+    height: auto;
+    float: left;
+    /* border: 1px solid black; */
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.left h1
+{
+    color: tomato;
+    float: left;
+    text-shadow: 0px 0px 0px black;
+    font-size: 35px;
+    font-family: auto;
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.left p
+{
+    float: left;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: justify;
+    padding: 4px 10px;
+    margin: 0px 0px;
+}
+.button 
+{
+    width: 100px;
+    float: right;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+.button a
+{
+    width: 100px;
+    float: right;
+    color: white;
+    background-color: orangered;
+    text-decoration: none;
+    padding: 2px 10px;
+    margin: 0px 0px;
+    border-radius: 7px;
+}
+.right
+{
+   
+    min-height: 257px;
+    height: auto;
+    float: right;
+    /*border: 1px solid black;*/
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.right img
+{
+    width: 100%;
+    float: left;
+    height: 255px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+/* welcome part colsed */
+/* service part open */
+.service
+{
+    float: left;
+    border-top: 1px solid red;
+}
+.service h1
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 5px 0px;
+    color: orange;
+}
+.service p
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 5px 0px;
+   
+}
+.box
+{
+   
+    margin: 5px 0px;
+    padding: 0px 0px;
+   
+}
+.box img
+{
+    width: 100%;
+    float: left;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.box h4
+{
+   
+    padding: 0px 6px;
+    margin: 5px 0px;
+    color: rgb(17, 12, 4);
+}
+.box p
+{
+    margin: 5px 0px;
+    padding: 0px 0px;
+    text-align: justify;
+}
+.box a
+{
+    float: left;
+    padding: 0px 0px;
+    margin: 0px 7px;
+    text-decoration: none;
+    color: orange;
+}
+.heading
+{
+    border-top: 1px solid red;
+    float: left;
+}
+.box:hover
+{
+    box-shadow: 13px 11px 25px black;
+    margin: 13px 0px;
+    transform: scale(1.2);
+}
+/* service part colsed */
+/* gellery part open */
+.gellery
+{
+    float: left;
+    border-top: 1px solid red;
+}
+.gellery h1
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 29px 0px;
+    color: rgb(12, 8, 2);
+}
+.gellery span
+{
+    color: blue;
+    font-family: auto;
+}
+.box1:hover
+{
+    box-shadow: 13px 11px 25px black;
+}
+.box1 span
+{
+    color: blue;
+    font-size: 21px;
+    font-family: auto;
+}
+.box2
+{
+    float: left;
+}
+.box2:hover
+{
+    box-shadow: 13px 11px 25px black;
+    transform: scale(1.2);
+}
+.box2 img
+{
+    width: 100%;
+    float: left;
+    height: 308px;
+}
+/* gellery part colsed */
+.box3
+{
+    float: left;
+    margin: 5px 0px;
+    padding: 0px 0px;
+}
+.box3:hover
+{
+    box-shadow: black 9px 13px 24px;
+    margin: 0px 0px;
+}
+.box3 h1
+{
+    color: skyblue;
+    font-size: 36px;
+    padding: 0px 0px;
+    margin: 18px 0px;
+}
+.box3 p
+{
+    text-align: center;
+}
+.box3 i
+{
+    font-size: 27px;
+    padding: 0px 0px;
+    margin: 28px 8px;
+}
+.top
+{
+    padding: 0px 0px;
+    margin: 28px 0px 0px 0px;
+}
+.box3 input
+{
+    border-color: aqua;
+    width: 270px;
+}
+.box3 button
+{
+    background-color: aqua;
+    border: none;
+    padding: 4px 15px;
+    margin: 24px 0px;
+}
+.footer
+{
+    width: 100%;
+    float: left;
+    background-color: orangered;
+    min-height: 200px;
+    height: auto;
+}
+.cell h3
+{
+    width: 200px;
+    padding: 0px 0px;
+    margin: 15px 0px;
+    color: white;
+}
+.cell a
+{
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+.cell h6
+{
+    width: 200px;
+    padding: 0px 0px;
+    margin: 15px 0px;
+    color: white;
+    font-size: 40px;
+}
+.footer2
+{
+    background-color: black;
+    float: left;
+    min-height: 60px;
+    height: auto;
+}
+.footer2 p
+{
+    color: whitesmoke;
+    padding: 0px 0px;
+    margin: 22px 0px;
+}
+.footer2 span
+{
+    color: orangered;
+}
+.copy
+{
+    width: 500px;
+    float: left;
+}
+.icon 
+{
+    float: right;
+}
+.icon i
+{
+    color: whitesmoke;
+    padding: 0px 0px 0px 0px;
+    margin: 22px 14px 0px 0px;
+    font-size: 20px;
+}
+.xy
+{
+    background-color: yellow;
+}
+@media only screen and (max-width:768px)
+{
+    .banner
+{
+    width: 100%;
+    float: left;
+    height: 200px;
+}
+.slider
+{
+    height: 200px;
+}
+.left
+{
+    width: 100% !important;
+    min-height: 257px;
+    height: auto;
+    float: left;
+    /* border: 1px solid black; */
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.left h1
+{
+    color: tomato;
+    float: left;
+    text-shadow: 6px 8px 8px black;
+    font-size: 17px;
+    font-family: auto;
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.left p
+{
+    float: left;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: justify;
+    padding: 4px 10px;
+    margin: 0px 0px;
+}
+.right
+{
+    width: 100% !important;
+    min-height: 257px;
+    height: auto;
+    float: right;
+    /*border: 1px solid black;*/
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.right img
+{
+    width: 100%;
+    float: left;
+    height: 259px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+/*service prat open*/
+.service
+{
+    float: left;
+    border-top: 1px solid red;
+}
+.service h1
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 5px 0px;
+    color: orange;
+}
+.service p
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 5px 0px;
+   
+}
+.box
+{
+   
+margin: 5px 0px;
+   
+padding: 0px 0px;
+   
+width: 100% !important;
+}
+.box img
+{
+    width: 100%;
+    float: left;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.box h4
+{
+   
+    padding: 0px 6px;
+    margin: 5px 0px;
+    color: rgb(17, 12, 4);
+}
+.box p
+{
+    margin: 5px 0px;
+    padding: 0px 0px;
+    text-align: justify;
+}
+.box a
+{
+    float: left;
+    padding: 0px 0px;
+    margin: 0px 7px;
+    text-decoration: none;
+    color: orange;
+}
+/*service prat colsed*/
+.heading
+{
+    border-top: 1px solid red;
+    float: left;
+}
+.gellery
+{
+    float: left;
+    border-top: 1px solid red;
+}
+.gellery h1
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 29px 0px;
+    color: rgb(12, 8, 2);
+}
+.gellery span
+{
+    color: blue;
+    font-family: auto;
+}
+.box1
+{
+    width: 50% !important;
+}
+.box1 span
+{
+    color: blue;
+    font-size: 21px;
+    font-family: auto;
+}
+.box2
+{
+    float: left;
+    width: 50% !important;
+}
+.box2 img
+{
+    width: 100%;
+    float: left;
+    height: 455px;
+}
+.box3
+{
+    float: left;
+    margin: 5px 0px;
+    padding: 0px 0px;
+}
+.top
+{
+    padding: 0px 0px;
+    margin: 55px 0px 2px 0px;
+}
+.box3 h1
+{
+    color: skyblue;
+    font-size: 36px;
+    padding: 0px 0px;
+    margin: 18px 0px;
+}
+.box3 p
+{
+    text-align: center;
+}
+.box3 i
+{
+    font-size: 17px;
+    padding: 0px 0px;
+    margin: 33px 0px 27px 5px;
+}
+.box3 input
+{
+    border-color: aqua;
+    width: 104%;
+}
+.box3 button
+{
+    background-color: aqua;
+    border: none;
+    padding: 4px 15px;
+    margin: 3px 0px;
+    float: right;
+}
+.footer
+{
+    width: 100%;
+    float: left;
+    background-color: orangered;
+    min-height: 300px;
+    height: auto;
+}
+.cell h3
+{
+    width: 200px;
+    padding: 0px 0px;
+    margin: 15px 0px;
+    color: white;
+    font-size: 12px;
+}
+.cell a
+{
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+.cell h6
+{
+    width: 89px;
+    padding: 0px 0px;
+    margin: 15px 9px;
+    color: white;
+    font-size: 12px;
+}
+.footer2
+{
+    background-color: black;
+    float: left;
+    min-height: 60px;
+    height: auto;
+}
+.footer2 p
+{
+    color: whitesmoke;
+    padding: 0px 0px;
+    margin: 22px 0px;
+    font-size: 13px;
+}
+.footer2 span
+{
+    color: orangered;
+}
+.copy
+{
+    width: 70%;
+    float: left;
+}
+.icon 
+{
+    float: right;
+}
+.icon i
+{
+    color: whitesmoke;
+    padding: 0px 0px 0px 0px;
+    margin: 22px 14px 0px 0px;
+    font-size: 20px;
+}
+}
+@media only screen and (max-width:505px)
+{
+    .banner
+{
+    width: 100%;
+    float: left;
+    height: 200px;
+}
+.slider
+{
+    height: 200px;
+}
+.left
+{
+    width: 100% !important;
+    min-height: 257px;
+    height: auto;
+    float: left;
+    /* border: 1px solid black; */
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.left h1
+{
+    color: tomato;
+    float: left;
+    text-shadow: 6px 8px 8px black;
+    font-size: 17px;
+    font-family: auto;
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.left p
+{
+    float: left;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: justify;
+    padding: 4px 10px;
+    margin: 0px 0px;
+}
+.right
+{
+    width: 100% !important;
+    min-height: 257px;
+    height: auto;
+    float: right;
+    /*border: 1px solid black;*/
+    padding: 0px 0px;
+    margin: 5px 0px;
+}
+.right img
+{
+    width: 100%;
+    float: left;
+    height: 259px;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+/*service prat open*/
+.service
+{
+    float: left;
+    border-top: 1px solid red;
+}
+.service h1
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 5px 0px;
+    color: orange;
+}
+.service p
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 5px 0px;
+   
+}
+.box
+{
+   
+margin: 5px 0px;
+   
+padding: 0px 0px;
+   
+width: 100% !important;
+}
+.box img
+{
+    width: 100%;
+    float: left;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.box h4
+{
+   
+    padding: 0px 6px;
+    margin: 5px 0px;
+    color: rgb(17, 12, 4);
+}
+.box p
+{
+    margin: 5px 0px;
+    padding: 0px 0px;
+    text-align: justify;
+}
+.box a
+{
+    float: left;
+    padding: 0px 0px;
+    margin: 0px 7px;
+    text-decoration: none;
+    color: orange;
+}
+/*service prat colsed*/
+.heading
+{
+    /* border-top: 1px solid red; */
+    float: left;
+}
+.gellery
+{
+    float: left;
+    border-top: 1px solid red;
+}
+.gellery h1
+{
+    text-align: center;
+    padding: 0px 0px;
+    margin: 29px 0px;
+    color: rgb(12, 8, 2);
+}
+.gellery span
+{
+    color: blue;
+    font-family: auto;
+}
+.box1
+{
+    width: 100% !important;
+}
+.box1 span
+{
+    color: blue;
+    font-size: 21px;
+    font-family: auto;
+}
+.box2
+{
+    float: left;
+    width: 100% !important;
+}
+.box2 img
+{
+    width: 100%;
+    float: left;
+    height: 308px;
+}
+.box3
+{
+    float: left;
+    margin: 5px 0px;
+    padding: 0px 0px;
+}
+.top
+{
+    padding: 0px 0px;
+    margin: 15px 0px 2px 0px;
+}
+.box3 h1
+{
+    color: skyblue;
+    font-size: 28px;
+    padding: 0px 0px;
+    margin: 7px 0px;
+}
+.box3 p
+{
+    text-align: center;
+}
+.box3 i
+{
+    font-size: 14px;
+    padding: 0px 0px;
+    margin: 25px 0px 0px 8px;
+    width: 8% !important;
+}
+.box3 input
+{
+    border-color: aqua;
+    width: 104%;
+}
+.box3 button
+{
+    background-color: aqua;
+    border: none;
+    padding: 4px 15px;
+    margin: 3px 0px;
+    float: right;
+}
+.footer
+{
+    width: 100%;
+    float: left;
+    background-color: orangered;
+    min-height: 300px;
+    height: auto;
+}
+.cell h3
+{
+    width: 200px;
+    padding: 0px 0px;
+    margin: 15px 0px;
+    color: white;
+    font-size: 12px;
+}
+.cell a
+{
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+.cell h6
+{
+    width: 89px;
+    padding: 0px 0px;
+    margin: 15px 9px;
+    color: white;
+    font-size: 12px;
+}
+.footer2
+{
+    background-color: black;
+    float: left;
+    min-height: 60px;
+    height: auto;
+}
+.footer2 p
+{
+    color: whitesmoke;
+    padding: 0px 0px;
+    margin: 9px 0px;
+    font-size: 8px;
+}
+.footer2 span
+{
+    color: orangered;
+}
+.copy
+{
+    width: 50%;
+    float: left;
+}
+.icon 
+{
+    float: right;
+}
+.icon i
+{
+    color: whitesmoke;
+    padding: 0px 0px 0px 0px;
+    margin: 10px 6px 0px 0px;
+    font-size: 18px;
+}
+}
